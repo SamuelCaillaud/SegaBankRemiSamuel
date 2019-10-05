@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49d651f1-1b1a-4b4e-be04-259997688556" name="Default Changelist" comment="" />
+    <list default="true" id="49d651f1-1b1a-4b4e-be04-259997688556" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/db.properties.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segaBankSamuelCAILLAUDRemiGRALLB3Classe1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/segaBankSamuelCAILLAUDRemiGRALLB3Classe1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/DAL/ComptesEpargneDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/DAL/ComptesPayantsDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/DAL/ComptesSimplesDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/DAL/IDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/DAL/IDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/Compte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/CompteEpargne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/CompteEpargne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/ComptePayant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/ComptePayant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/CompteSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/CompteSimple.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -20,14 +33,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RjvtFRVf4y6g38pv55ceGf3Zwc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MySQL/mysql-connector-java-8.0.17.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssylla-b3-intro-poo-8914060e8d43" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,6 +53,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="segaBank.App" />
+      <module name="segaBankSamuelCAILLAUDRemiGRALLB3Classe1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="segaBank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -52,8 +84,10 @@
       <option name="presentableId" value="Default" />
       <updated>1570193532700</updated>
       <workItem from="1570193535513" duration="2672000" />
-      <workItem from="1570196331690" duration="5097000" />
-      <workItem from="1570280707272" duration="735000" />
+      <workItem from="1570197232068" duration="2475000" />
+      <workItem from="1570199915874" duration="1487000" />
+      <workItem from="1570270312188" duration="3669000" />
+      <workItem from="1570282752225" duration="7000" />
     </task>
     <servers />
   </component>
