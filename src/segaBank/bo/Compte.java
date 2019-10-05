@@ -1,9 +1,11 @@
 package segaBank.bo;
 
-public class Compte   {
+public abstract class Compte   {
 
     private int id;
     private double solde;
+
+    public Compte(){}
 
     public Compte(int id, double solde) {
         this.id = id;

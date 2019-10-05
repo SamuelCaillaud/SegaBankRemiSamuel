@@ -3,6 +3,8 @@ package segaBank.bo;
 public class CompteSimple extends Compte {
     private double decouvert;
 
+    public CompteSimple(){}
+
     public CompteSimple(int id, double solde) {
         super(id, solde);
     }
