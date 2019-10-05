@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49d651f1-1b1a-4b4e-be04-259997688556" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/segaBank/DAL/ComptesEpargneDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segaBank/DAL/ComptesSimplesDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/db.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/db.properties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segaBank/DAL/ComptesDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/DAL/ComptesPayantsDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segaBank/DAL/IDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/DAL/IDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/Compte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/CompteEpargne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/CompteEpargne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/ComptePayant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/ComptePayant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segaBank/bo/CompteSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segaBank/bo/CompteSimple.java" afterDir="false" />
-    </list>
+    <list default="true" id="49d651f1-1b1a-4b4e-be04-259997688556" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
